@@ -1,2 +1,3 @@
-.xml
-.logs
+*.xml
+*.logs
+*.info
